@@ -1,2 +1,2 @@
-# -Intrusion-detection-using-RNN
-Detecting attacks in Intrusion-detection-using-RNN
+# Intrusion-detection-using-RNN
+Detedcting attacks in intrusion detedtion using RNN
